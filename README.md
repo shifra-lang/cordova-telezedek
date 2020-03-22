@@ -1,0 +1,2 @@
+# cordova-telezedek
+cordova telezedek
