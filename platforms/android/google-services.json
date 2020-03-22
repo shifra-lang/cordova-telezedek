@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "597219584340",
+    "firebase_url": "https://teletzedek.firebaseio.com",
+    "project_id": "teletzedek",
+    "storage_bucket": "teletzedek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597219584340:android:7d24623ae7a683abf000c1",
+        "android_client_info": {
+          "package_name": "com.example.cordovaTelezedek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597219584340-t4fq2lbej7ecqgvdeq4ss3dmoipn9uq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrARTh-_GQm9n4wS1LK89ZqFJC4Yn47s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597219584340-t4fq2lbej7ecqgvdeq4ss3dmoipn9uq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597219584340:android:c933dca9a8ca9d55f000c1",
+        "android_client_info": {
+          "package_name": "szmc.android.szmcphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597219584340-t4fq2lbej7ecqgvdeq4ss3dmoipn9uq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrARTh-_GQm9n4wS1LK89ZqFJC4Yn47s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597219584340-t4fq2lbej7ecqgvdeq4ss3dmoipn9uq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
